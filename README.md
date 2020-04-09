@@ -1,2 +1,2 @@
-# compartivo_fundos
-comprativos entre fundos CVM
+# Compartivo_fundos
+Comprativos entre fundos CVM
